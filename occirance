@@ -1,0 +1,13 @@
+Find the First Occurrence of a Substring
+leetcode prblm no 28
+input
+sadbutsad
+sad
+output
+0
+code
+# Simple Approach
+haystack = input()
+needle = input()
+
+print(haystack.find(needle))
